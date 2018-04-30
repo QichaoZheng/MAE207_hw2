@@ -1,1 +1,2 @@
 # MAE207_hw2
+# There is something wrong with my computer and I can't define a new class. So I can't run the code on my computer, and it is really late when I finished this code, thus I can not find someone else to run the code for me. I know I should done the homework earlier, but it is really hard for me and I spent my whole weekend to get it done. Anyway, sorry for the absence of the two videos.
